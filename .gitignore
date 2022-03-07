@@ -1,0 +1,3 @@
+data/postgres_docker/data/*
+obj/*
+data/replays/*
