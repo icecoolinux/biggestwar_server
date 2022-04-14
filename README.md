@@ -1,6 +1,8 @@
 # Biggestwar Server
 Biggestwar videogame server
 
+[![Watch the video](https://img.youtube.com/vi/q9bt5E9jACU/hqdefault.jpg)](https://www.youtube.com/watch?v=q9bt5E9jACU)
+
 ## How to start
 ### Compile
 ```bash
